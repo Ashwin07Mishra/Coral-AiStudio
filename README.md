@@ -4,7 +4,7 @@ AI-generated, brand-safe ad creatives for automotive campaigns, built at Innocea
 
 > This repository holds the **project overview only**. The source code lives in a private repository.
 
-An Ocean Admin writes a campaign brief, Claude turns it into five creative concept directions with image prompts and copy, and an image model renders them. Brand managers approve or reject, and dealers download the approved creatives with an editable text overlay.
+An User Admin writes a campaign brief, Claude turns it into five creative concept directions with image prompts and copy, and an image model renders them. Brand managers approve or reject, and dealers download the approved creatives with an editable text overlay.
 
 ---
 
@@ -36,7 +36,7 @@ packages/
 
 | Role | Capability |
 |---|---|
-| **Ocean Admin** | Creates campaigns, generates creatives, manages settings and brand guardrails |
+| **Innocean Admin** | Creates campaigns, generates creatives, manages settings and brand guardrails |
 | **Brand** | Reviews creatives, approves or rejects them, gives feedback |
 | **Dealer** | Browses approved creatives, edits the text overlay, downloads |
 
